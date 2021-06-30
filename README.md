@@ -1,0 +1,2 @@
+# EDA-and-Perform-Modelling-on-Ionosphere-Dataset
+## Project Description:  The following project aims to predict class using various technical specifications (features) as input to the logistic regression algorithms.   ## Database Description:  Number of Instances: 351  Number of Attributes: 35 including the class attribute  ## Attribute Information: Target column :- Class Feature Columns range- V1- V35
